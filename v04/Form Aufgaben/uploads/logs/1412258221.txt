@@ -1,0 +1,7 @@
+Die Prio ist: 2 
+ Der Bugtype ist XY Exception 
+ Der Kunde wuenscht rueckruf 
+ Der Fehler istFehler ist reproduzierbar 
+ Das Datum des Auftretens:  
+ seine Mailadresse ist zaniyar.jahany@gmail.com 
+ seine Url ist https://www.zana.com

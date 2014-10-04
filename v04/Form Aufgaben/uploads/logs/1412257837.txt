@@ -1,0 +1,1 @@
+Die Prio ist: $slider <br> Der Bugtype ist $bugtype <br> Der Kunde wuenscht $rueckruf <br> Der Fehler ist $reproduzierbar <br> Das Datum des Auftretens: $date <br> seine Mailadresse ist $mail <br> seine Url ist $url

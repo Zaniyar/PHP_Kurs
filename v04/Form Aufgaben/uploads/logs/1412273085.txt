@@ -1,0 +1,7 @@
+Die Prio ist: 8 
+ Der Bugtype ist IO Exception 
+ Der Kunde wuenscht rueckruf 
+ Der Fehler istFehler ist NICHT reproduzierbar 
+ Das Datum des Auftretens:  
+ seine Mailadresse ist zaniyar.jahany@gmail.com 
+ seine Url ist http://www.adfa.com
